@@ -1,2 +1,2 @@
 # clapperrank
-mmmmm.....button pushing
+going through the python tutorial...
